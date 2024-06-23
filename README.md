@@ -5,6 +5,7 @@ This **Google Apps Script** injects an AI-powered writing assistant in **Google 
 ## Table of Contents
 
 * [Key Features](#key-features)
+    * [Demo](#demo)
 * [System Architecture](#system-architecture)
 * [End-to-End Flow](#end-to-end-flow)
 * [Usage](#usage)
@@ -17,6 +18,13 @@ The tool provides these features within Google Docs:
 2. **Generate Essay**: Generates ~400 essay based on prompt.
 3. **Summarize Text**: Summarize given text.
 4. **Generate Social Media Posts**: Generate text for social media posts on Twitter, Linkedin and Instagram.
+
+### Demo
+
+Watch the demo video below to see this tool in action:
+
+[doc-assistant-demo.webm](https://github.com/LostInCode404/doc-assistant/assets/15314796/234c84db-fa6b-41fb-91fa-cf0f9b1b2577)
+
 
 ## System Architecture
 
